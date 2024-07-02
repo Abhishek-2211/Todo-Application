@@ -1,0 +1,10 @@
+#input {
+  height: 30px;
+  margin: 10px;
+  width: 200px;
+  text-align: center;
+  border: 2px solid rgb(0, 82, 189);
+}
+#header {
+  color: rgb(11, 82, 189);
+}
